@@ -1,5 +1,5 @@
-# Data_Cleaning_in_Python_pandas
-# 📞 Customer Call List Cleaning Project
+# [Data_Cleaning_in_Python_pandas](https://github.com/NishaSoni-Analyst/Data_Cleaning_in_Python_pandas/blob/main/DataCleaninginPandas.ipynb)
+# [📞 Customer Call List Cleaning Project](https://github.com/NishaSoni-Analyst/Data_Cleaning_in_Python_pandas/blob/main/DataCleaninginPandas.ipynb)
 
 This project focuses on cleaning a customer call list Excel file using Python and Pandas. The goal was to prepare the data for further analysis by standardizing formats, removing duplicates, and filtering out unneeded records.
 
